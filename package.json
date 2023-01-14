@@ -60,6 +60,6 @@
     "jest": "^23.6.0",
     "url-loader": "^1.1.2",
     "webpack": "^4.28.0",
-    "webpack-cli": "^3.1.2"
+    "webpack-cli": "^3.3.12"
   }
 }
